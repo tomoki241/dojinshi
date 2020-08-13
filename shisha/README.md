@@ -11,7 +11,7 @@
 
 日本国内でじわじわ広まりつつあるシーシャ（水タバコ）。もしかしたらこちらの寄稿を読む皆さんももしかするとご存知かもしれません。
 エジプトなどに行くと街なかでおっさんがダラダラしながら煙をくゆらせてるアレです。
-![photo by google](https://imagevars.gulfnews.com/2013/10/26/1_16a08149448.1247552_2214640508_16a08149448_medium.jpg)
+![photo by google](./images/shisha.jpg)
 
 シーシャは４つのパーツから成り立っています。水を入れるためのガラスでできた底部（ボトル）。そこから上部へと伸びる胴部のパイプ（ステム）、この部分は真鍮（もしくはステンレス）でできていて、フレーバーを詰めて炭をのせる頭部のボウルまで続きます。最後に胴部の中程から吸い込む部分（マウスピース）へと伸びるホースです。
 
@@ -74,7 +74,7 @@
 
 案の定、アメリカ人は合理性を気にすることから、シーシャに関しても便利な道具を発明しだします。ボウルの上に、炭をそのまま置くだけでは難しい火力の管理を簡単にする「ヒートマネジメントシステム」を始めとして、便利な道具が生まれたのはこの頃からです。
 
-![Heat Management System](https://lh3.googleusercontent.com/proxy/9JbYv_Tmg47K7rKlE9V3BwWBQbass4XcMlP3cJPPmShPEmwg2Tp6yVfNRNp-DQQMZ28SM2Eig2w43qCTJcfFdJwZOfEfJwyXpALbDmzjcXiQ5X2krcdmwuevxI0sFRWffkXrphlWVEP2de43H6w1hLg2X9wEGvnZbJLIuO40mmL7Cb0diHKGkAqmUmm7GwYjpAWcq-Ps2kTJ0qgo-VMpn5E)
+![Heat Management System](./images/hms.jpg)
 
 その後、アメリカをはじめとして、欧州、ロシアなど先進国でもフレーバー製造やシーシャカフェが普及しました。（ドイツではトルコ系移民が多いことも普及に一役買っているかもしれません）
 
